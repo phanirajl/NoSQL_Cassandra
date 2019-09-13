@@ -13,7 +13,7 @@ A partir de aquí lo que he ido haciendo ha sido preparar las tablas con los dat
 fácilmente. 
 Tal y como se ve en el "notebook" he separado el tratado de los datos para que se vea mucho más claro el proceso llevado a cabo.
 Una vez acabado ésto último, ya he procedido a conectar con la máquina donde se encuentra la base de datos Cassandra, la creación de cada 
-una de las tablas con sus correspondientes inserts de los datos anteriores ya comentados y par finalizar, las consultas de cada una de las
+una de las tablas con sus correspondientes inserts de los datos anteriores ya comentados y para finalizar, las consultas de cada una de las
 cosas que se piden.
 
 
